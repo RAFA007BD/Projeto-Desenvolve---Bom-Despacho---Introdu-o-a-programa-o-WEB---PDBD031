@@ -1,0 +1,33 @@
+h2 {
+    color: blue;
+    font-family: 'tahoma';
+}
+h1 {
+    color: red;
+    
+}
+p {
+    font-family: 'arial';
+    color: 'black';
+}
+h1 + p {
+    font-weight: bold;
+    color: orangered;   
+}
+a {
+    color: red;
+    
+}
+a:hover {
+    color: lime;
+}
+.destaque {
+    font: 'arial';
+    
+}
+.destaque p {
+    font-weight: bold;
+}
+.destaque strong {
+    color: red;
+}
