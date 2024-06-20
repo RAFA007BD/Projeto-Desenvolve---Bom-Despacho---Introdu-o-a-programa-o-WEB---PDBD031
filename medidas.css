@@ -1,0 +1,26 @@
+html .padrao {
+    font-size: 20px;
+ }
+ html h1{
+    font-size: 2rem;
+ } /* O valor é de 2*20=40px*/
+
+ h1 > .principal{
+    font-size: 1.4em;
+ } /* O valor é de 1.4*40=56px*/
+ 
+ html .secundario{
+    font-size: 1.4rem;
+ } /* O valor é de 1.4*20=28px
+
+/* Cores */
+
+.cor_padrao {
+    background-color: rgb(219, 78, 68);
+}
+.cor_clara{
+    background-color: rgb(252, 90, 78);
+}
+.cor_escura{
+    background: rgb(186, 66, 58);
+}
